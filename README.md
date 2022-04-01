@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning : Html , Java , Lua , C++ , GSC
+###🌱 I’m currently learning : Html , Java , Lua , C++ , GSC
 
 ## 📫 How to reach me: Add Me Discord pick#6997
 
