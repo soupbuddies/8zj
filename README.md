@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 🌱 I’m currently learning : Html , Java , Lua , C++ , GSC
+
+## 📫 How to reach me: Add Me Discord pick#6997
+
+## ⚡ Fun fact: I Own Rare TikTok User Called pick
+
 <!--
 **8zj/8zj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
