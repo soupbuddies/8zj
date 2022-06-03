@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/8zj/8zj.svg?style=flat-square)](https://gpvc.arturio.dev/8jz)
+[![Prifle Views](https://hits.dwyl.com/8zj/8zj.svg?style=flat-square)](https://gpvc.arturio.dev/8jz)
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/c9/a9/fa/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Pick</h1>
