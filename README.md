@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Pick</h1>
 <h3 align="center">This Is More Info About Me.</h3>
 
-
+[![HitCount](https://hits.dwyl.com/8zj/8zj.svg?style=flat-square)](http://hits.dwyl.com/8zj/8zj)
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
