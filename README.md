@@ -1,9 +1,8 @@
+ **[![Profile Views][Profile Views](https://gpvc.arturio.dev/8zj)**
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/c9/a9/fa/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Pick</h1>
 <h3 align="center">This Is More Info About Me.</h3>
-
-**[!][Profile Views](https://gpvc.arturio.dev/8zj)**
 
 ## 🙋‍♂️ About Me
 
