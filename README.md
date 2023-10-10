@@ -1,7 +1,7 @@
 [![ Profile views](https://gpvc.arturio.dev/8zj)](https://gpvc.arturio.dev/8zj)
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/c9/a9/fa/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Pick</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm HunItsKayla</h1>
 <h3 align="center">This Is More Info About Me.</h3>
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Add Me On Discord pick#5997 Or [My Discord](https://discord.gg/Eu3cufpKES)**
 
-- ⚡ Fun fact **Im The Owner Of @pick on Tiktok**
+- ⚡ Fun fact **Im The Owner Of @hunitskayla on Tiktok**
 
 ## 🚀 Languages and Tools:
 
